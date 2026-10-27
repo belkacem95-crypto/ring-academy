@@ -1,49 +1,49 @@
 {
     "schema":  1,
-    "generated":  "2026-10-27T14:04:20Z",
+    "generated":  "2026-10-27T16:38:42Z",
     "apps":  {
                  "coach":  {
                                "versionCode":  10,
                                "versionName":  "3.5",
                                "apk":  "RingAcademy-Coach-v3.5.apk",
-                               "sha256":  "442128369296FC3C1417E27ED4A42D9C2E5ACECC62E06A86A3E14D84410A9FC8",
-                               "size":  2008709
+                               "sha256":  "64FC98DB12EB7D1FAC0C474C311B316114ED7CD7266014E33C3ABCAB23CCAD06",
+                               "size":  2012805
                            },
                  "cours":  {
                                "versionCode":  3,
                                "versionName":  "1.2",
                                "apk":  "RingAcademy-Cours-v1.2.apk",
-                               "sha256":  "A736885B5CA1AA9FB385B0ACCFDF5732360549F2F238CFBFDAF50B061C4C0C2A",
+                               "sha256":  "BF38BC74164D2FC730945238C0248353DF589EA834092A753C0F4F70BE9110DE",
                                "size":  1914432
                            },
                  "exam":  {
                               "versionCode":  3,
                               "versionName":  "1.2",
                               "apk":  "RingAcademy-Exam-v1.2.apk",
-                              "sha256":  "09D70A90EDD4D5A8F7D2E0383B54D7C8E81A791FE689F8E0EA44C74A179B3C6F",
+                              "sha256":  "F83F54654601A92B2AD8B9BB2C48150BC70D63D1CAB153227332DAF6DA43A9C9",
                               "size":  1901920
                           }
              },
     "content":  {
-                    "version":  1,
+                    "version":  2,
                     "apps":  {
                                  "coach":  {
-                                               "version":  1,
-                                               "zip":  "RingAcademy-Coach-content-v1.zip",
-                                               "sha256":  "2F1A06332EB8D74EA51438D308576EB756E8B7AA6D190C473CB04F8F1754A1BA",
-                                               "size":  1858344
+                                               "version":  2,
+                                               "zip":  "RingAcademy-Coach-content-v2.zip",
+                                               "sha256":  "5E838449FCDB74CE16592438A7651C07C49A71BFAEB931C3AF68051B462D55DD",
+                                               "size":  1859381
                                            },
                                  "cours":  {
-                                               "version":  1,
-                                               "zip":  "RingAcademy-Cours-content-v1.zip",
-                                               "sha256":  "464FCC147167EDB8AB1351967E6736F9EA5E1EFFAA300F5583924A953748DF9B",
-                                               "size":  1838516
+                                               "version":  2,
+                                               "zip":  "RingAcademy-Cours-content-v2.zip",
+                                               "sha256":  "527212D2D042B2425A4E73FA7C8891663E20ABA581978D6AF6324F7D021E74F3",
+                                               "size":  1838532
                                            },
                                  "exam":  {
-                                              "version":  1,
-                                              "zip":  "RingAcademy-Exam-content-v1.zip",
-                                              "sha256":  "1255D6B3748CE045A7178801113645B7496526529BD1E41FEABECB5C3E370FDF",
-                                              "size":  1814821
+                                              "version":  2,
+                                              "zip":  "RingAcademy-Exam-content-v2.zip",
+                                              "sha256":  "32955C5105BFE65E2B57419739A9A78B9248DE2480E10393568041F028780794",
+                                              "size":  1814837
                                           }
                              }
                 }
