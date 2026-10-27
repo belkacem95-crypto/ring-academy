@@ -1,0 +1,50 @@
+{
+    "schema":  1,
+    "generated":  "2026-10-27T14:04:20Z",
+    "apps":  {
+                 "coach":  {
+                               "versionCode":  10,
+                               "versionName":  "3.5",
+                               "apk":  "RingAcademy-Coach-v3.5.apk",
+                               "sha256":  "442128369296FC3C1417E27ED4A42D9C2E5ACECC62E06A86A3E14D84410A9FC8",
+                               "size":  2008709
+                           },
+                 "cours":  {
+                               "versionCode":  3,
+                               "versionName":  "1.2",
+                               "apk":  "RingAcademy-Cours-v1.2.apk",
+                               "sha256":  "A736885B5CA1AA9FB385B0ACCFDF5732360549F2F238CFBFDAF50B061C4C0C2A",
+                               "size":  1914432
+                           },
+                 "exam":  {
+                              "versionCode":  3,
+                              "versionName":  "1.2",
+                              "apk":  "RingAcademy-Exam-v1.2.apk",
+                              "sha256":  "09D70A90EDD4D5A8F7D2E0383B54D7C8E81A791FE689F8E0EA44C74A179B3C6F",
+                              "size":  1901920
+                          }
+             },
+    "content":  {
+                    "version":  1,
+                    "apps":  {
+                                 "coach":  {
+                                               "version":  1,
+                                               "zip":  "RingAcademy-Coach-content-v1.zip",
+                                               "sha256":  "2F1A06332EB8D74EA51438D308576EB756E8B7AA6D190C473CB04F8F1754A1BA",
+                                               "size":  1858344
+                                           },
+                                 "cours":  {
+                                               "version":  1,
+                                               "zip":  "RingAcademy-Cours-content-v1.zip",
+                                               "sha256":  "464FCC147167EDB8AB1351967E6736F9EA5E1EFFAA300F5583924A953748DF9B",
+                                               "size":  1838516
+                                           },
+                                 "exam":  {
+                                              "version":  1,
+                                              "zip":  "RingAcademy-Exam-content-v1.zip",
+                                              "sha256":  "1255D6B3748CE045A7178801113645B7496526529BD1E41FEABECB5C3E370FDF",
+                                              "size":  1814821
+                                          }
+                             }
+                }
+}
